@@ -1,0 +1,10 @@
+we would like to know a little more about you $$##$.  Is that alright?   Y/N  |Y|N
+tell us your age
+what is your number one long term financial goal at this stage in your life?
+how much money do you need to achieve this long term goal $$##$ ?
+do you have any short term financial goals like planning a vacation, or buying a ? if so what is the number one short term goal?
+how much money do you need to achieve this short term goal $$##$?
+what is your monthly income?
+what are your total monthly expenses?
+you're not very good at saving money are you $$##$?
+would you like our help?
